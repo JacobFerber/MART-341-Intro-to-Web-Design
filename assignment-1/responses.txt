@@ -1,1 +1,1 @@
-here is some text in the file responses.
+A directory is similiar to a table of contents. It lists all the folders (like chapters in a table of contents) and then it ranks them. Some folders are ranked equally with other folders because they exist at the same level in the hiearchy of the directory. Folders can be placed in other folders wich creates this hiearchy. Folders that are stored within other folders can only be accessed after opening the parent folder that stores them. 
