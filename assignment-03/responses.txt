@@ -1,0 +1,3 @@
+The domain naming system translates domain names into IP Adresses so that browsers can load sources.
+Cookies are small files that websites use to store local website information about a user. Such as preferences and habits.
+First, the protocol HTTP or HTTPS. Second, the domain name that identifies a website. Third, the path leading to a webpage.
