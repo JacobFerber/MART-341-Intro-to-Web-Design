@@ -4,4 +4,3 @@ Internet browsers are a tool that allows anyone to search from files and resourc
 
 ## Homework Screenshot <h2>
 ![Images](./images/MART341_a4_screenshot.png)
-
