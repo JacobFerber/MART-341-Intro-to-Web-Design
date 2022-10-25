@@ -6,4 +6,4 @@ type='video/webm; codecs="vp8.0, vorbis"'
 
 This problem has screwed with me in the past so it is nice knowing this so that I can troubleshoot in the future with this new knowledge.
 
-![Screenshot of Index](/images/screenshot-week8.png)
+![Screenshot of Index](./images/screenshot-week8.png)
