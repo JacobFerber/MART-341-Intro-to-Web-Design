@@ -3,8 +3,8 @@
  I am definitely a little afraid of next week I have not gotten a lot of time in CSS recently and I am definitely rusty. Hopefully the harder stuff comes later and we stay focused on what we have been doing it recently and make our pages look a lot bettter with CSS. Which it sounds like??
 
 
-![Screenshot of Index](./images/Screenshot-week9.png)
+![Screenshot of Index](./images/Screenshot-Week9.png)
 
-![Screenshot of Contact](./images/Screenshot-week9-2.png)
+![Screenshot of Contact](./images/Screenshot-Week9-2.png)
 
-![Screenshot of About](./images/Screenshot-week9.png)
+![Screenshot of About](./images/Screenshot-Week9.png)
