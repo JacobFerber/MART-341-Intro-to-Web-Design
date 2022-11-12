@@ -4,6 +4,6 @@ I aimed for a triadic color scheme but I felt that it was a little boring so i w
 
 I really struggled with this week. Beingly completely candid, i watched your video and basically copied your code exactly as you wrote it. I had tons of problems getting content centered in the middle of my screen. When i used the display inline-block inside of div on my stylesheet it would screw everything up. So seriously after messing with this assignment for i think 5 days now I found someone taking this class and got help getting my assignment past the finishing line. I could not get my dots to work for me for the life of me and I found out it was due to that little chunck of code missing from my div. So i put it in the pallette tag and i think this was in your tutorial/my code at one time but I deleted it while troubleshooting and that caused a lot of problems.  
 
-![Screenshot of Index](/images/screenshot-index-Week10.png)
+![Screenshot of Index](/images/Screenshot-Index-Week10.png)
 
-![Screenshot of Style Sheet](/images/screenshot-stylesheet-Week10.png)
+![Screenshot of Style Sheet](/images/Screenshot-StyleSheet-Week10.png)
