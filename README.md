@@ -15,6 +15,6 @@ Repository for my MART-341 class.
 
 [Week 9 Website](/assignment-9/index.html)
 
-[Week 10 Website](/assognment10/index.html)
+[Week 10 Website](/assignment10/index.html)
 
 [Current Week README.md](/assignment-10/README.md)
