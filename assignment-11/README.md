@@ -10,4 +10,4 @@ What is the difference between a system font, web font, and web-safe font
 
 A system font or a web-safe font are fonts that are assumed to be on all devices so when you use the fonts you dont need to include it in the dom. Web fonts need to be attatched with a webpage so that the font is loaded with your website and content is displayed correctly.
 
-[!Screenshot of Index](./images/screenshot-of-index.png)
+[Screenshot of Index](./images/screenshot-of-index.png)
