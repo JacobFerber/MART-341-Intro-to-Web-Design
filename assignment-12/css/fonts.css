@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../fonts/Quicksand-Regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Quicksand';
+    src: url('../fonts/Quicksand-Bold.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'Merriweather';
+   src: url('../fonts/Merriweather-Regular.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'bangke-regular';
+   src: url('../fonts/bangke-regular.ttf') format('truetype');
+   font-weight: 700;
+}
