@@ -1,3 +1,3 @@
-The goal of my website is to have my own resume and create my own bibliography. I think sending a potential employer a WEBSITE to introduce my self would stand out. I also think that if I get an audience for my artwork this will serve as a way to direct them around my content.
+They thought changing the main color text to white and highlighting words with red will make things stand out more. Definitely need a way to be contacted in my about page.
 
-A responsive website utilizes the viewers subconscious by highlighting areas their cursor is hovering over. Dropdown menus, informational images and videos can be played to keep people scrolling. Keeping content short and digestible helps as well. 
+I am really struggling positiong all of my elements. I wish this wasn't so painful but I am learning how to use margins padding and display elements in conjunction much better. 
