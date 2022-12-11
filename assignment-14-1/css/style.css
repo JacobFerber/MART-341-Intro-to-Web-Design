@@ -1,0 +1,85 @@
+#header{
+    background-image: url("../images/Billy-Jacob.jpg");
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+    }
+*{
+  box-sizing: border-box;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+/* emoty content will add a break after each row so i dont need to write it display: table will keep evefything centered  */
+row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media only screen and (min-width: 768px){
+  .col-1 {width: 25%}
+  .col-2 {width: 50%}
+  .col-3 {width: 25%}
+}
+
+@media only screen and (max-width: 768px){
+  [class*="col-"]{
+    width: 100%;
+  }
+
+    div > img {
+      max-width: 100%;
+    }
+
+    .h1{
+      font-size: 30px;
+      text-align: center;
+
+    }
+
+    .p{
+      font-size: 20px;
+    }
+    .Menu-Button{
+      text-align: center;
+    }
+}
+
+div{
+  display: block;
+}
+
+#b1{
+  text-align: center;
+}
+
+h1{
+    color: #333;
+    font-family: Merriweather;
+    font-size: 60px;
+    letter-spacing: 0.3em;
+}
+
+body{
+  display: inline;
+  width: 100%;
+
+}
+
+.menu-button{
+  margin: 0;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.image{
+  margin-top:auto;
+  margin-bottom: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.c1

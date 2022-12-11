@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  }
+  #header{
+  background-image: url(".../images/channel_banner_wide.png");
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 40px;
+}
+header{
+  position:fixed;
+  background-color: black;
+  width: 99%;
+  height: 4em;
+  top: 0px;
+  font-family: Merriweather;
+  text-align: center;
+  padding: 10px;
+}
+#first-bar{
+  margin-top: 4em;
+  paddiing: 1em;
+}
+body {
+
+  display: inline;
+  width: 100%;
+    }
+.nav-buttons{
+  float:right;
+  padding-right: .5em;
+  padding-left: .2em;
+}
+.nav-button{
+  display:inline-block;
+  margin: .2em .2em .2em .2em;
+  padding: 0.5em 0.5em;
+  border-radius: 1em 1em 1em 1em;
+  min-width: 6em;
+  text-align: center;
+  font-size: 25px;
+}
+.nav-button:Hover{
+  background-color: #E81C23;
+  color: #333;
+}
+.nav-button a {
+  color: #fff;
+  text-decoration: none;
+}
+.site-name{
+  float:left;
+  font-size: 45px;
+  display:inline-block;
+  min-width: 6em;
+}
+
+.site-name:Hover{
+  color: #black;
+  background-color: #ff4500;
+  border-radius: 1em 1em 1em 1em;
+
+}
+.site-name a {
+  color: #ff4500;
+  text-decoration: none;
+}
