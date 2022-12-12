@@ -1,0 +1,38 @@
+.spotify-container{
+    margin: 1em;
+}
+*{
+    box-sizing:border-box;
+}
+
+row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="column-"] {
+    float: left;
+    padding: 15px;
+}
+@media only screen and (min-width:768px){
+    .column-1{width: 70%;}
+    .column-2{width: 30%;}
+   
+}
+
+@media only screen and (max-width: 768px){
+    [class*="column-"] {
+        width: 100%;
+    }
+}
+
+.column-1{
+    
+    padding-top: 5em;
+}
+
+.column-2{
+    
+    padding-top: 5em;
+}
+

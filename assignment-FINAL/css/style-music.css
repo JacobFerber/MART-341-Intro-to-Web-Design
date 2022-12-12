@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    }
+    #header{
+    background-image: url(".../images/channel_banner_wide.png");
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+  }
+ 
+  #first-bar{
+    margin-top: 4em;
+    padding: 1em;
+  }
+  body {
+    text-align: center;
+    display: inline;
+    width: 100%;}
+
+  .nav-buttons{
+    float:right;
+    padding-right: .5em;
+    padding-left: .2em;
+  }
+  .nav-button{
+    display:inline-block;
+    margin: .2em .2em .2em .2em;
+    padding: 0.5em 0.5em;
+    border-radius: 1em 1em 1em 1em;
+    min-width: 6em;
+    text-align: center;
+    font-size: 25px;
+    
+  }
+  .nav-button:Hover{
+    background-color: #E81C23;
+    color: #333;
+  }
+  .nav-button a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .site-name{
+    font-size: 45px;
+    min-width: 6em;
+    float: left;
+  }
+  
+  .site-name:Hover{
+    background-color: #fff;
+    border-radius: 1em 1em 1em 1em;
+  
+  }
+  .site-name a {
+    color: #E81C23;
+    text-decoration: none;
+  }
+  .h1{
+    color: #fff;
+    display: inline-block;
+  }
+  .titleBorder{
+    height: 400px;
+    color: #fff;
+    padding: 1em;
+    
+}
+
+#first-bar {
+    background-image: url("../images/channel_banner_wide.png");
+    margin: 0em;
+}
+
+.bodyContent{
+    color: #fff;
+    display: flex;
+}
+.subtitle{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    font-size: 75px;
+    margin: auto;
+    color: black;
+
+}
+.Content{
+    width: 575px;
+    height: 375px;
+    background-color: rgb(0, 0, 0);
+    font-size: 45px;
+    padding: 1em;
+    border-radius: 3em;
+    margin: .2em;
+    
+    }
+    .Content a{
+        color: #fff;
+    }
+#youtube-link {
+    text-decoration: none;
+    color: #fff;
+    max-width: 13em;
+    }
+#artwork-link {
+    text-decoration: none;
+    color: #E81C23;
+    max-width: 13em;
+    }
+
+.redtext{
+    color: #E81C23;
+}
+
+em{
+    color: #E81C23;
+}

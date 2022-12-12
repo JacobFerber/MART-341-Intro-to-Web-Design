@@ -1,0 +1,11 @@
+header{
+    position:fixed;
+    background-color: #333;
+    width: 99%;
+    height: 5em;
+    top: 0px;
+    font-family: Merriweather;
+    text-align: center;
+    padding: 10px;
+  }
+  
